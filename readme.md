@@ -35,3 +35,5 @@ The purpose of this micro project:
   - https://www.youtube.com/watch?v=mPGi1IHQxFM
 - Markdown
   - https://guides.github.com/features/mastering-markdown/
+- Intro to Javascript
+	- https://www.youtube.com/watch?v=W6NZfCO5SIk
