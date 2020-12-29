@@ -11,6 +11,8 @@ The purpose of this micro project:
 
 ## How to
 
+### Host on Github Pages
+
 1. Make a github repo
 	1. Right click on the root folder with "index.html"
 		1. "Git Bash here" in the right click menu
@@ -26,6 +28,14 @@ The purpose of this micro project:
 	1. Github Pages
 		1. Source:
       1. Master Branch
+
+
+### Javascript
+
+- Install Visual Studio Code
+- Create "index.html"
+	- Type "!" then press tab to have boilerplate code
+
 
 ## Resources Used
 
