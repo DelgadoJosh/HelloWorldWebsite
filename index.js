@@ -48,5 +48,35 @@ console.log("Interest rate is: " + interestRate);
 //   Boolean
 //   Undefined
 //   Null
+//   Symbol
 
+
+let nameOfYoutuber = 'Mosh';  // String literal
+let age = 30; // Number Literal
+let isApproved = true; // boolean Literal
+let something = undefined; 
+let somethingElse = null; // Want to explicitly clear the variable
+
+let selectedColor = null; // The default value for when you want to clear the value
+
+
+// Static (statically typed)
+// Dynamic (Dynamically typed)
+ 
+// Undefined is a type, also a value.
+
+
+// Reference Types
+//   Object
+//   Array
+//   Function
+
+// Object = something in real life.
+//   Person has name, place, address (properties)
+//   
+
+let person = {
+  name: 'Mosh',
+  age: 30,  
+};
 
