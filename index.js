@@ -126,3 +126,10 @@ function greet() {
 
 greet();
 
+
+function greetPerson(name) {   // Name is a parameter
+  console.log('Hello ' + name);
+}
+
+greetPerson('Bob');  // Bob is an 'argument'
+
