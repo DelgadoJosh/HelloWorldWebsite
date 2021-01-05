@@ -54,7 +54,7 @@ console.log("Interest rate is: " + interestRate);
 let nameOfYoutuber = 'Mosh';  // String literal
 let age = 30; // Number Literal
 let isApproved = true; // boolean Literal
-let something = undefined; 
+let something = undefined; // The default value
 let somethingElse = null; // Want to explicitly clear the variable
 
 let selectedColor = null; // The default value for when you want to clear the value
