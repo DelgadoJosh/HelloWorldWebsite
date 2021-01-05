@@ -120,6 +120,7 @@ console.log(typeof selectedColors)
 
 // Functions
 
+// Performing a task (display something on console)
 function greet() {
   console.log('Hello World');
 } // Don't need semicolon at end
@@ -132,4 +133,15 @@ function greetPerson(name) {   // Name is a parameter
 }
 
 greetPerson('Bob');  // Bob is an 'argument'
+
+
+// Calculating a value
+function square(number) {
+  return number * number;
+}
+
+let number = square(2);
+console.log(number);
+
+console.log(square(2));  // Can be inline
 
