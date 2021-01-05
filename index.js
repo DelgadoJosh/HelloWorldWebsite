@@ -36,7 +36,17 @@ console.log(name); // Bob
 
 
 
-let interestRate = 0.3;
-interestRate = 1;
-console.log(1);
+// let interestRate = 0.3;
+const interestRate = 0.3;
+// interestRate = 1;
+console.log("Interest rate is: " + interestRate);
+
+
+// Primitives:
+//   String
+//   Number
+//   Boolean
+//   Undefined
+//   Null
+
 
