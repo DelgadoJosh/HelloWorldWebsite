@@ -71,10 +71,11 @@ let selectedColor = null; // The default value for when you want to clear the va
 //   Array
 //   Function
 
+
+
+// === Object === 
 // Object = something in real life.
 //   Person has name, place, address (properties)
-//   
-
 let person = {
   name: 'Mosh',
   age: 30,  
@@ -98,4 +99,30 @@ let selection = 'age';
 console.log(person[selection]);
 
 
+// Arrays
+let firstArray = []; // Array Literal (Empty array)
+let selectedColors = ['red', 'blue'];
+console.log(selectedColors);
+
+console.log(selectedColors[0]);  // Can select individual element
+
+selectedColors[2] = 'green';  // Length can change on the fly
+console.log(selectedColors);   
+
+// In javascript, can store different types of elements
+selectedColors[3] = 1;
+console.log(selectedColors);
+
+// Arrays are objects
+console.log(typeof selectedColors)
+
+
+
+// Functions
+
+function greet() {
+  console.log('Hello World');
+} // Don't need semicolon at end
+
+greet();
 
