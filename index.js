@@ -80,3 +80,22 @@ let person = {
   age: 30,  
 };
 
+
+console.log(person);
+
+// Ways to change
+// Dot Notation
+//   Shorter, more concise
+person.name = "John"
+
+console.log(person.name);
+
+// Bracket Notation
+//   Good for when you don't know what you're selecting
+person['name'] = 'Mary';
+
+let selection = 'age';
+console.log(person[selection]);
+
+
+
