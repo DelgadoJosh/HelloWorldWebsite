@@ -11,6 +11,10 @@ The purpose of this micro project:
 
 ## How to
 
+To view this website go to https://delgadojosh.github.io/HelloWorldWebsite/
+
+You can go to `Settings > Pages` to view the url
+
 ### Host on Github Pages
 
 1. Make a github repo
